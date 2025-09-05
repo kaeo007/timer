@@ -1,0 +1,7 @@
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\timer\timer.pdb
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\timer\D3DCompiler_47_cor3.dll
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\timer\PenImc_cor3.dll
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\timer\PresentationNative_cor3.dll
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\timer\vcruntime140_cor3.dll
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\timer\wpfgfx_cor3.dll
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\timer\timer.exe

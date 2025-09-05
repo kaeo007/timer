@@ -1,0 +1,78 @@
+C:\workspace\timer\timer\bin\Debug\net8.0-windows\timer.exe
+C:\workspace\timer\timer\bin\Debug\net8.0-windows\timer.deps.json
+C:\workspace\timer\timer\bin\Debug\net8.0-windows\timer.runtimeconfig.json
+C:\workspace\timer\timer\bin\Debug\net8.0-windows\timer.dll
+C:\workspace\timer\timer\bin\Debug\net8.0-windows\timer.pdb
+C:\workspace\timer\timer\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\workspace\timer\timer\obj\Debug\net8.0-windows\App.g.cs
+C:\workspace\timer\timer\obj\Debug\net8.0-windows\timer_MarkupCompile.cache
+C:\workspace\timer\timer\obj\Debug\net8.0-windows\timer_MarkupCompile.lref
+C:\workspace\timer\timer\obj\Debug\net8.0-windows\MainWindow.baml
+C:\workspace\timer\timer\obj\Debug\net8.0-windows\timer.g.resources
+C:\workspace\timer\timer\obj\Debug\net8.0-windows\timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\timer\timer\obj\Debug\net8.0-windows\timer.AssemblyInfoInputs.cache
+C:\workspace\timer\timer\obj\Debug\net8.0-windows\timer.AssemblyInfo.cs
+C:\workspace\timer\timer\obj\Debug\net8.0-windows\timer.csproj.CoreCompileInputs.cache
+C:\workspace\timer\timer\obj\Debug\net8.0-windows\timer.dll
+C:\workspace\timer\timer\obj\Debug\net8.0-windows\refint\timer.dll
+C:\workspace\timer\timer\obj\Debug\net8.0-windows\timer.pdb
+C:\workspace\timer\timer\obj\Debug\net8.0-windows\timer.genruntimeconfig.cache
+C:\workspace\timer\timer\obj\Debug\net8.0-windows\ref\timer.dll
+C:\workspace\timer\timer\obj\Debug\net8.0-windows\timer_start.g.cs
+C:\workspace\timer\timer\obj\Debug\net8.0-windows\timer_start.baml
+C:\workspace\timer\timer\obj\Debug\net8.0-windows\main.g.cs
+C:\workspace\timer\timer\obj\Debug\net8.0-windows\main.baml
+C:\workspace\timer\timer\obj\Debug\net8.0-windows\setting.g.cs
+C:\workspace\timer\timer\obj\Debug\net8.0-windows\setting.baml
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\bin\Debug\net8.0-windows\timer.exe
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\bin\Debug\net8.0-windows\timer.deps.json
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\bin\Debug\net8.0-windows\timer.runtimeconfig.json
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\bin\Debug\net8.0-windows\timer.dll
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\bin\Debug\net8.0-windows\timer.pdb
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\obj\Debug\net8.0-windows\main.g.cs
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\obj\Debug\net8.0-windows\setting.g.cs
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\obj\Debug\net8.0-windows\timer_start.g.cs
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\obj\Debug\net8.0-windows\timer_MarkupCompile.cache
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\obj\Debug\net8.0-windows\timer_MarkupCompile.lref
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\obj\Debug\net8.0-windows\main.baml
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\obj\Debug\net8.0-windows\setting.baml
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\obj\Debug\net8.0-windows\timer_start.baml
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\obj\Debug\net8.0-windows\timer.g.resources
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\obj\Debug\net8.0-windows\timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\obj\Debug\net8.0-windows\timer.AssemblyInfoInputs.cache
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\obj\Debug\net8.0-windows\timer.AssemblyInfo.cs
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\obj\Debug\net8.0-windows\timer.csproj.CoreCompileInputs.cache
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\obj\Debug\net8.0-windows\timer.dll
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\obj\Debug\net8.0-windows\refint\timer.dll
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\obj\Debug\net8.0-windows\timer.pdb
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\obj\Debug\net8.0-windows\timer.genruntimeconfig.cache
+C:\Users\kaeo007\OneDrive - 한국항공대학교\문서\카카오톡 받은 파일\title_timer\timer\timer\obj\Debug\net8.0-windows\ref\timer.dll
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\bin\Debug\net8.0-windows\timer.exe
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\bin\Debug\net8.0-windows\timer.deps.json
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\bin\Debug\net8.0-windows\timer.runtimeconfig.json
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\bin\Debug\net8.0-windows\timer.dll
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\bin\Debug\net8.0-windows\timer.pdb
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\obj\Debug\net8.0-windows\main.g.cs
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\obj\Debug\net8.0-windows\setting.g.cs
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\obj\Debug\net8.0-windows\timer_start.g.cs
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\obj\Debug\net8.0-windows\timer_MarkupCompile.cache
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\obj\Debug\net8.0-windows\timer_MarkupCompile.lref
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\obj\Debug\net8.0-windows\main.baml
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\obj\Debug\net8.0-windows\setting.baml
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\obj\Debug\net8.0-windows\timer_start.baml
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\obj\Debug\net8.0-windows\timer.g.resources
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\obj\Debug\net8.0-windows\timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\obj\Debug\net8.0-windows\timer.AssemblyInfoInputs.cache
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\obj\Debug\net8.0-windows\timer.AssemblyInfo.cs
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\obj\Debug\net8.0-windows\timer.csproj.CoreCompileInputs.cache
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\obj\Debug\net8.0-windows\timer.dll
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\obj\Debug\net8.0-windows\refint\timer.dll
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\obj\Debug\net8.0-windows\timer.pdb
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\obj\Debug\net8.0-windows\timer.genruntimeconfig.cache
+C:\Users\kaeo007\OneDrive - 한국항공대학교\바탕 화면\tmp\칭호타이머_코드\timer\timer\obj\Debug\net8.0-windows\ref\timer.dll
