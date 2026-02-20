@@ -1,0 +1,167 @@
+﻿<Page x:Class="timer.setting"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:timer"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="500"
+      Title="setting">
+    <!--스크롤. 원하면 사용>
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+    <-->    
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+        <Border Grid.Row="3" BorderBrush="Black" BorderThickness="1.5" Padding="10" HorizontalAlignment="Center" Width="366" Margin="0,0,0,10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <TextBlock HorizontalAlignment="Center"  TextAlignment="Center" TextWrapping="Wrap" Text="풀려난 그림자/콘체르토"  />
+                <TextBox x:Name ="setting_key1" PreviewKeyDown="TextBox_PreviewKeyDown" Grid.Column="1" TextAlignment="Center" HorizontalAlignment="Center" Width="120" Height="18"/>
+
+            </Grid>
+        </Border>
+
+        <Border Grid.Row="4" BorderBrush="Black" BorderThickness="1.5" Padding="10" HorizontalAlignment="Center" Width="366" Margin="0,0,0,10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <TextBlock HorizontalAlignment="Center"  TextAlignment="Center" TextWrapping="Wrap" Text="백귀야행 (칭호키)"  Width="156"  Height="16"/>
+                    <TextBox x:Name ="setting_key2_1" PreviewKeyDown="TextBox_PreviewKeyDown" Grid.Column="2" TextAlignment="Center" HorizontalAlignment="Center"   VerticalAlignment="Center" Width="120" />
+            </Grid>
+        </Border>
+
+
+        <Border Grid.Row="5" BorderBrush="Black" BorderThickness="1.5" Padding="10" HorizontalAlignment="Center" Width="366"  Margin="0,0,0,10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Grid.Column="0" HorizontalAlignment="Center"  TextAlignment="Center" TextWrapping="Wrap" Text="백귀야행 (주력기)"  Width="156"  Height="16"/>
+
+                <Grid Grid.Column="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition />
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+
+                        <TextBox Grid.Row="0" x:Name ="setting_key2_2" PreviewKeyDown="TextBox_PreviewKeyDown"  TextAlignment="Center" Grid.Column="2" HorizontalAlignment="Center"    VerticalAlignment="Center" Width="120" Margin="0,0,0,3" />
+                        <TextBox Grid.Row="1" x:Name ="setting_key2_3" PreviewKeyDown="TextBox_PreviewKeyDown" TextAlignment="Center" Grid.Column="2" HorizontalAlignment="Center"    VerticalAlignment="Center" Width="120" />
+
+                </Grid>
+
+
+            </Grid>
+        </Border>
+
+        <Border Grid.Row="6" BorderBrush="Black" BorderThickness="1.5" Padding="10" HorizontalAlignment="Center" Width="366"  Margin="0,0,0,10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <TextBlock HorizontalAlignment="Center"  TextAlignment="Center" TextWrapping="Wrap" Text="신들의 황혼"  Width="156"  Height="16"/>
+                    <TextBox x:Name ="setting_key3" PreviewKeyDown="TextBox_PreviewKeyDown" Grid.Column="2" TextAlignment="Center" HorizontalAlignment="Center"    VerticalAlignment="Center" Width="120" />
+            </Grid>
+        </Border>
+
+        <Border Grid.Row="2" BorderBrush="Black" BorderThickness="1.5" Padding="10" HorizontalAlignment="Center" Width="366"  Margin="0,0,0,10" >
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <TextBlock HorizontalAlignment="Center"  TextAlignment="Center" TextWrapping="Wrap" Text="각성"  Width="156"  Height="16"/>
+                    <TextBox x:Name ="setting_key_awaken" PreviewKeyDown="TextBox_PreviewKeyDown" Grid.Column="2" TextAlignment="Center" HorizontalAlignment="Center"    VerticalAlignment="Center" Width="120" />
+            </Grid>
+        </Border>
+
+        <Border Grid.Row="7" BorderBrush="Black" BorderThickness="1.5" Padding="10" HorizontalAlignment="Center" Width="366"  Margin="0,0,0,10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <TextBlock HorizontalAlignment="Center"  TextAlignment="Center" Text="빼꼼 양파"  Width="156"  Height="16"/>
+                    <TextBox x:Name ="setting_key_onion" PreviewKeyDown="TextBox_PreviewKeyDown" Grid.Column="2" TextAlignment="Center" HorizontalAlignment="Center"    VerticalAlignment="Center" Width="120" />
+            </Grid>
+        </Border>
+
+<!--풀그 콘체 쿨 다른줄 알고 만들었는데 쿨이 똑같네요>
+        <Border Grid.Row="6" BorderBrush="Black" BorderThickness="1.5" Padding="10" HorizontalAlignment="Center" Width="366" Margin="0,0,0,10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="20"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Grid.Row="0" Text="풀려난 그림자 사용"  Grid.Column="0"  Height="34"   Width="110" />
+                <TextBlock Grid.Column="1" Text="콘체르토 사용" Height="33" Width="76" />
+
+                <RadioButton x:Name="shadow_option" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center"/>
+                <RadioButton x:Name="conchez_option" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center"/>
+
+            </Grid>
+        </Border>
+<-->
+            <Border Grid.Row="0" BorderBrush="Black" BorderThickness="1.5" Padding="10" HorizontalAlignment="Center" Width="366"  Margin="0,10,0,10">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock HorizontalAlignment="Center"  TextAlignment="Center" Text="칭호 변경 키"  Width="156"  Height="16"/>
+                    <TextBox x:Name ="setting_key_change_title" PreviewKeyDown="TextBox_PreviewKeyDown" TextAlignment="Center" Grid.Column="2" HorizontalAlignment="Center"    VerticalAlignment="Center" Width="120" />
+                </Grid>
+            </Border>
+
+
+            <Border Grid.Row="8" BorderThickness="1.5" Padding="10" HorizontalAlignment="Center" Width="366" Margin="0,20,0,0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+
+                    <Button Content="저장 후 메인화면" Grid.Column="0"  Height="34"   Width="138" Click="Button_Click"/>
+                    <Button Content="초기화" Height="33" Grid.Column="1" Width="76" Click="Button_Reset" />
+
+                </Grid>
+            </Border>
+
+        </Grid>
+    
+    <!--스크롤. 원하면 사용>
+    </ScrollViewer>
+    <-->
+    
+</Page>
